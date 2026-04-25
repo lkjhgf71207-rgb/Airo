@@ -1,0 +1,17 @@
+{
+  "name": "One-Tap Airplane",
+  "short_name": "Airplane",
+  "description": "Instant shortcut to Airplane Mode settings",
+  "start_url": "/?mode=auto",
+  "display": "standalone",
+  "background_color": "#151619",
+  "theme_color": "#151619",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/m_outlined/512/FFFFFF/airplane-mode-on.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
